@@ -1,0 +1,11 @@
+{
+  "name": "progetto1-info-hardware-os",
+  "version": "1.0.0",
+  "description": "Mostra informazioni hardware e sistema operativo del PC.",
+  "author": "Ghost",
+  "license": "MIT",
+  "main": "Progetto 1.py",
+  "scripts": {
+    "start": "python \"Progetto 1.py\""
+  }
+}
